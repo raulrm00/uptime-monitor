@@ -4,18 +4,19 @@
     "url": "https://riojano.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/riojano.ddns.net.ico",
     "slug": "next-cloud-pi",
-    "status": "up",
-    "uptime": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 870,
     "timeDay": 810,
     "timeWeek": 805,
     "timeMonth": 890,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2024-11-22": 0,
       "2024-10-07": 30
     }
   }
