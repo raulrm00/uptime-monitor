@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/riojano.ddns.net.ico",
     "slug": "next-cloud-pi",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
     "time": 881,
-    "timeDay": 633,
-    "timeWeek": 802,
-    "timeMonth": 840,
-    "timeYear": 902,
+    "timeDay": 650,
+    "timeWeek": 748,
+    "timeMonth": 822,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2025-09-07": 561,
       "2025-08-24": 647,
@@ -26,8 +26,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 93,
       "2025-08-12": 44,
-      "2025-08-11": 16,
-      "2025-04-28": 322
+      "2025-08-11": 16
     }
   }
 ]
